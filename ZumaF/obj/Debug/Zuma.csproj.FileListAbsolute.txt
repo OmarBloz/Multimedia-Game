@@ -1,0 +1,40 @@
+D:\Graphics\Zuma\bin\Debug\Zuma.exe.config
+D:\Graphics\Zuma\bin\Debug\Zuma.exe
+D:\Graphics\Zuma\bin\Debug\Zuma.pdb
+D:\Graphics\Zuma\obj\Debug\Zuma.csproj.AssemblyReference.cache
+D:\Graphics\Zuma\obj\Debug\Zuma.csproj.SuggestedBindingRedirects.cache
+D:\Graphics\Zuma\obj\Debug\Zuma.Properties.Resources.resources
+D:\Graphics\Zuma\obj\Debug\Zuma.csproj.GenerateResource.cache
+D:\Graphics\Zuma\obj\Debug\Zuma.csproj.CoreCompileInputs.cache
+D:\Graphics\Zuma\obj\Debug\Zuma.exe
+D:\Graphics\Zuma\obj\Debug\Zuma.pdb
+D:\Graphics\Zuma1\bin\Debug\Zuma.exe.config
+D:\Graphics\Zuma1\bin\Debug\Zuma.exe
+D:\Graphics\Zuma1\bin\Debug\Zuma.pdb
+D:\Graphics\Zuma1\obj\Debug\Zuma.csproj.AssemblyReference.cache
+D:\Graphics\Zuma1\obj\Debug\Zuma.csproj.SuggestedBindingRedirects.cache
+D:\Graphics\Zuma1\obj\Debug\Zuma.Properties.Resources.resources
+D:\Graphics\Zuma1\obj\Debug\Zuma.csproj.GenerateResource.cache
+D:\Graphics\Zuma1\obj\Debug\Zuma.csproj.CoreCompileInputs.cache
+D:\Graphics\Zuma1\obj\Debug\Zuma.exe
+D:\Graphics\Zuma1\obj\Debug\Zuma.pdb
+C:\Users\alyaa omar\Downloads\Zuma1\bin\Debug\Zuma.exe.config
+C:\Users\alyaa omar\Downloads\Zuma1\bin\Debug\Zuma.exe
+C:\Users\alyaa omar\Downloads\Zuma1\bin\Debug\Zuma.pdb
+C:\Users\alyaa omar\Downloads\Zuma1\obj\Debug\Zuma.csproj.AssemblyReference.cache
+C:\Users\alyaa omar\Downloads\Zuma1\obj\Debug\Zuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\alyaa omar\Downloads\Zuma1\obj\Debug\Zuma.Properties.Resources.resources
+C:\Users\alyaa omar\Downloads\Zuma1\obj\Debug\Zuma.csproj.GenerateResource.cache
+C:\Users\alyaa omar\Downloads\Zuma1\obj\Debug\Zuma.csproj.CoreCompileInputs.cache
+C:\Users\alyaa omar\Downloads\Zuma1\obj\Debug\Zuma.exe
+C:\Users\alyaa omar\Downloads\Zuma1\obj\Debug\Zuma.pdb
+D:\Graphics\ZumaF\bin\Debug\Zuma.exe.config
+D:\Graphics\ZumaF\bin\Debug\Zuma.exe
+D:\Graphics\ZumaF\bin\Debug\Zuma.pdb
+D:\Graphics\ZumaF\obj\Debug\Zuma.csproj.AssemblyReference.cache
+D:\Graphics\ZumaF\obj\Debug\Zuma.csproj.SuggestedBindingRedirects.cache
+D:\Graphics\ZumaF\obj\Debug\Zuma.Properties.Resources.resources
+D:\Graphics\ZumaF\obj\Debug\Zuma.csproj.GenerateResource.cache
+D:\Graphics\ZumaF\obj\Debug\Zuma.csproj.CoreCompileInputs.cache
+D:\Graphics\ZumaF\obj\Debug\Zuma.exe
+D:\Graphics\ZumaF\obj\Debug\Zuma.pdb
